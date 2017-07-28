@@ -1,2 +1,2 @@
 # SoftUni-Training
-Professional Module C# Web Developer (+ JavaScript Core)
+Professional Module - C# Web Developer (+ JavaScript Core)
